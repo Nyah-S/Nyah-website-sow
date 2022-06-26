@@ -1,0 +1,63 @@
+html {
+  border: 5px solid #ba8282;
+  margin: 5px 230px;
+  padding: 10px 10px;
+}
+
+body {
+  background-color: #eecdcd;
+}
+
+nav {
+  background-color: rosybrown;
+  margin: 0;
+  padding: 0px;
+}
+
+nav a{ 
+  display: block;
+  padding: 14px 118px;
+  color: black;
+  float: left;
+  text-decoration: none;
+  border-bottom: 1px solid dimgray;
+}
+
+nav a:hover{
+  background-color: #D3A1A1;
+  color: #5f3535;
+}
+
+.myweb {
+  font-family: helvetica;
+  font-size: 40px;
+  font-style: oblique;
+}
+
+button {
+  color: #7f3939;
+}
+
+.para1 {
+  font-size: 20px;
+}
+
+.para2 {
+  font-size: 20px;
+}
+
+ul {
+  font-size: 20px;
+}
+
+.aboutme {
+  font-size: 25px;
+}
+
+img {
+  width: 46%
+}
+
+img:hover {
+  width: 50%
+}
